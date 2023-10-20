@@ -10979,7 +10979,7 @@ html {
   font-size: 1.25rem;
 }
 .masthead .masthead-avatar {
-  width: 15rem;
+  width: 25rem;   /* changed from 15 to 25 10/19/2023 MFM*/
 }
 
 @media (min-width: 992px) {
